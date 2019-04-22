@@ -14,5 +14,5 @@ maintainers:
   - name: rtluckie
     email: rluckie@cisco.com
   - name: maorfr
-    email: maorfr@gmail.com
+    email: maor.friedman@redhat.com
 engine: gotpl
